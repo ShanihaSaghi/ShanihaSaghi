@@ -11,7 +11,7 @@
 - 💻 Currently pursuing **B.E. in Computer Science** at Arunachala College of Engineering for Women  
 - 🛠️ I love building real-world projects and exploring Cloud, Web, and AI technologies  
 - 🌐 Certified **AWS Cloud Practitioner**  
-- 🎯 Currently learning: MERN Stack, DSA, and OpenCV  
+- 🎯 Currently learning: MERN Stack and DSA
 
 ---
 
