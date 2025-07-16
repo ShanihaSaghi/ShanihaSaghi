@@ -17,7 +17,7 @@
 
 ### 💡 Projects
 
-- 🔍 [Type N Speak]([https://github.com/ShanihaSaghi/License-Plate-Recognition-system](https://github.com/ShanihaSaghi/Type-N-Speak))  
+- 🔍 [Type N Speak](https://github.com/ShanihaSaghi/Type-N-Speak)
   Developed a web-based Text-to-Speech application using HTML, CSS, and JavaScript with the built-in Web Speech API, enabling real-time voice playback with adjustable pitch, rate, and voice selection — without using any external APIs.
 
 - 🛒 [Amazon Clone](https://github.com/ShanihaSaghi/Amazonclone)
