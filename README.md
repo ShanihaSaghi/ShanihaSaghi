@@ -38,7 +38,7 @@
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanihasaghi)
-[![Gmail](https://img.shields.io/badge/-shanihasaghism2004@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:shanihasaghism2004@gmail.com)
+[![Gmail](https://img.shields.io/badge/-shaniha2004s@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:shanihasaghism2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/shanihasaghi)
 
 ---
