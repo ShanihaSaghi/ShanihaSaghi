@@ -17,11 +17,12 @@
 
 ### 💡 Projects
 
-- 🔍 [Type N Speak](https://github.com/ShanihaSaghi/Type-N-Speak)
-  Developed a web-based Text-to-Speech application using HTML, CSS, and JavaScript with the built-in Web Speech API, enabling real-time voice playback with adjustable pitch, rate, and voice selection — without using any external APIs.
+- 🔍 [Real-Time Collaborative Whiteboard](https://github.com/ShanihaSaghi/Type-N-Speak)
+  Enabling multiple users to draw simultaneously using WebSockets, ensuring low-latency updates across connected clients.Designed a Spring Boot backend with REST APIs and role-based access, handling session management, board creation, and secure user authentication.
 
-- 🛒 [Amazon Clone](https://github.com/ShanihaSaghi/Amazonclone)
-  Built with HTML & Tailwind CSS, replicating Amazon’s UI
+
+- 🛒 [Airline Management Daashboard](https://github.com/ShanihaSaghi/Amazonclone)
+  •	Designed and developed an Airline Management Dashboard using HTML, CSS, and JavaScript to monitor flight schedules, aircraft status, and passenger data through an interactive UI.
 
 ---
 
