@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaniha Saghi</h1>
 
 <p align="center">
-  🌱 Aspiring Mern Stack Developer | ☁️ AWS Cloud Certified | 👩‍💻 Passionate CSE Student  
+   Aspiring Software Developer |  AWS Cloud Certified |  Passionate CSE Student  
 </p>
 
 ---
