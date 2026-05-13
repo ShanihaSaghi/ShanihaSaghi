@@ -8,10 +8,7 @@
 
 ### 👩‍🎓 About Me
 
-- 💻 Currently pursuing **B.E. in Computer Science** at Arunachala College of Engineering for Women  
-- 🛠️ I love building real-world projects and exploring Cloud, Web, and AI technologies  
-- 🌐 Certified **AWS Cloud Practitioner**  
-- 🎯 Currently learning: MERN Stack and DSA
+Final-year CSE student who loves turning ideas into clean, functional UIs. Currently building with React.js and Tailwind CSS. AWS certified and always learning.   
 
 ---
 
@@ -22,7 +19,10 @@
 
 
 - 🛒 [Airline Management Daashboard](https://github.com/ShanihaSaghi/Amazonclone)
-  •	Designed and developed an Airline Management Dashboard using HTML, CSS, and JavaScript to monitor flight schedules, aircraft status, and passenger data through an interactive UI.
+   •	Built a responsive airline management dashboard with modules for flight management, passenger records, and booking operations.
+   •	Designed a clean, multi-section UI using React.js and Tailwind CSS with component-based architecture for scalability.
+   •	Implemented dynamic data rendering for real-time flight listings and passenger details without page reloads.
+
 
 ---
 
@@ -32,6 +32,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://shields.io)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ---
@@ -40,7 +41,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanihasaghi)
 [![Gmail](https://img.shields.io/badge/-shaniha2004s@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:shanihasaghism2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/shanihasaghi)
 
 ---
 
